@@ -1,6 +1,6 @@
 
-# survival-analysis
+# Cluster-Analysis
 
 By: Oscar
 
-Notas de clase, analisis de supervivencia
+Notas de clase, Cluster Analysis
